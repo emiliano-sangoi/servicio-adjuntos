@@ -1,0 +1,13 @@
+{
+    "name": "scit/servicio-adjuntos",
+    "description": "Permite gestionar archivos adjuntos con el servicio web.",
+    "authors": [
+        {
+            "name": "esangoi",
+            "email": "emiliano.sangoi@gmail.com"
+        }
+    ],
+    "require": {
+        "scit/servicio-adjuntos": "master"
+    }
+}
