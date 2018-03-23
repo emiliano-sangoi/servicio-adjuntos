@@ -1,5 +1,6 @@
 {
     "name": "scit/servicio-adjuntos",
+    "license": "MIT",
     "description": "Permite gestionar archivos adjuntos con el servicio web.",
     "authors": [
         {
@@ -8,6 +9,12 @@
         }
     ],
     "require": {
-        "scit/servicio-adjuntos": "master"
-    }
+        "php": ">=5.3.3"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/emiliano-sangoi/servicio-adjuntos.git"
+        }
+    ]
 }
